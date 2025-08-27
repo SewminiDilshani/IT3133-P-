@@ -12,7 +12,7 @@
 
 ---
 
-### 🔹 3. npx create-react-app myapp ✅
+### 🔹 3. npx create-react-app myapp 
 
 👉 Best & modern way to start a React app.
 🖥️ Directly creates project folder myapp with ready setup.
